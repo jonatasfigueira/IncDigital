@@ -1,0 +1,12 @@
+footer {
+    @include type-1(12);
+    margin: 10px 0;
+    .top {
+        border-top: 1px solid $silver;
+    }
+    .copyright {
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+}

@@ -1,0 +1,23 @@
+/*!
+Theme Name: Inc Digital - Vaga Dev WordPress
+Theme URI: www.incdigital.com.br
+Author: Jonatas Figueira
+Author URI: 
+Description: Tema desenvolvido no processo seletivo para a vaga de desenvolvedor front-end.
+Version: 1.0
+*/
+
+//Reset & Grid
+@import 'reset';
+@import 'grid';
+@import 'fonts';
+@import 'variables-mixins';
+// Global
+@import 'global';
+// Modules
+@import 'header';
+@import 'footer';
+// Pages
+@import 'home-produtos';
+@import 'slickzoom';
+@import 'single-produto';

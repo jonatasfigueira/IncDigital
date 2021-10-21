@@ -1,0 +1,18 @@
+body {
+    background: $white;
+    color: $black;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    max-width: 100%; //deixa qualquer imagem responsiva
+}
+
+.row {
+    margin: 0;
+}
